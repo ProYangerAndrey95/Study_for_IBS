@@ -1,0 +1,3 @@
+Error: The table 'D:\SusPecT\Documents\Appline_Study\Скрипты\03_SearcH_Itinerary_Delete\seatPref.dat' does not exist.	[MsgId: MERR-13889]
+Warning: Extension parameng.dll reports error -13889 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

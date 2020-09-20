@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>05_Search</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="05_Search.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="05_Search.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_05_Search.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="04_Login_Itinerary.prm.bak" Filter="1" />
+    <FileEntry Name="05_Search.c.pickle" Filter="1" />
+    <FileEntry Name="05_Search.ci" Filter="1" />
+    <FileEntry Name="05_Search.prb" Filter="1" />
+    <FileEntry Name="05_Search.prm.bak" Filter="1" />
+    <FileEntry Name="05_Search.sdf" Filter="1" />
+    <FileEntry Name="05_Search_logout.prm.bak" Filter="1" />
+    <FileEntry Name="104024438440.idx" Filter="1" />
+    <FileEntry Name="123031750440.idx" Filter="1" />
+    <FileEntry Name="139548020440.idx" Filter="1" />
+    <FileEntry Name="149774025440.idx" Filter="1" />
+    <FileEntry Name="152380596440.idx" Filter="1" />
+    <FileEntry Name="153959646440.idx" Filter="1" />
+    <FileEntry Name="194097013440.idx" Filter="1" />
+    <FileEntry Name="201215588440.idx" Filter="1" />
+    <FileEntry Name="202490340440.idx" Filter="1" />
+    <FileEntry Name="202670112440.idx" Filter="1" />
+    <FileEntry Name="2083544440.idx" Filter="1" />
+    <FileEntry Name="251221487440.idx" Filter="1" />
+    <FileEntry Name="25122148744_KU3.741.idx" Filter="1" />
+    <FileEntry Name="25122148744_kyD.987.idx" Filter="1" />
+    <FileEntry Name="31860583440.idx" Filter="1" />
+    <FileEntry Name="32742988440.idx" Filter="1" />
+    <FileEntry Name="37512816440.idx" Filter="1" />
+    <FileEntry Name="4123626440.idx" Filter="1" />
+    <FileEntry Name="89595232440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="departDate(1).dat" Filter="1" />
+    <FileEntry Name="departDate.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="loginNamePass.dat" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv5AV.133.log" Filter="1" />
+    <FileEntry Name="mdrv9w7.771.log" Filter="1" />
+    <FileEntry Name="mdrvB2L.331.log" Filter="1" />
+    <FileEntry Name="mdrvDd8.315.log" Filter="1" />
+    <FileEntry Name="mdrvdrU.391.log" Filter="1" />
+    <FileEntry Name="mdrvibJ.245.log" Filter="1" />
+    <FileEntry Name="mdrvK5Q.649.log" Filter="1" />
+    <FileEntry Name="mdrvmOq.933.log" Filter="1" />
+    <FileEntry Name="mdrvp3Z.719.log" Filter="1" />
+    <FileEntry Name="mdrvTZz.449.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="returnDate(1).dat" Filter="1" />
+    <FileEntry Name="returnDate.dat" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

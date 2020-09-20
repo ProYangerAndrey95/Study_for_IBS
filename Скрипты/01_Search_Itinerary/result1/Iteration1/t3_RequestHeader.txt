@@ -1,0 +1,10 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1595974854; MTUserInfo=firstName&Fedor&address2&Moscow%20MO%20Moscow&username&koltsov&hash&22&lastName&Koltsov%0A&address1&ulitsa%20Polesskiy%20proyezd%20Polikarpova&creditCard&&expDate&%0A
+

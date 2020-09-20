@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\SusPecT\Documents\Appline_Study\Скрипты\03_SearcH_Itinerary_Delete
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\suspect\documents\appline_study\скрипты\03_search_itinerary_delete\\logfile.log
+d:\suspect\documents\appline_study\скрипты\03_search_itinerary_delete\\combined_03_SearcH_Itinerary_Delete.c
+d:\suspect\documents\appline_study\скрипты\03_search_itinerary_delete\\pre_cci.c

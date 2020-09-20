@@ -1,0 +1,10 @@
+GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1596392126; MTUserInfo=firstName&Yevdokim&address2&Moscow%20MO%20Moscow&username&barinov&hash&22&lastName&Barinov%0A&address1&pereulok%20Volovya%20&creditCard&&expDate&%0A
+

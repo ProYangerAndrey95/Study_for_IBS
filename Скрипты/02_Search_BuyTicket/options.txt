@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\SusPecT\Documents\Appline_Study\Скрипты\02_Search_BuyTicket
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\suspect\documents\appline_study\скрипты\02_search_buyticket\\logfile.log
+d:\suspect\documents\appline_study\скрипты\02_search_buyticket\\combined_02_Search_BuyTicket.c
+d:\suspect\documents\appline_study\скрипты\02_search_buyticket\\pre_cci.c

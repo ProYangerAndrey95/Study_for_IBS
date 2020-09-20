@@ -1,0 +1,13 @@
+POST /cgi-bin/login.pl HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://localhost:1080/cgi-bin/nav.pl?in=home
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: localhost:1080
+Content-Length: 121
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: MSO=SID&1595929550
+

@@ -1,0 +1,47 @@
+[
+    {
+        "transactionName": "Load_start_Page",
+        "rawStartTime": 1595974854140,
+        "rawEndTime": 1595974854632
+    },
+    {
+        "transactionName": "login_user",
+        "rawStartTime": 1595974859634,
+        "rawEndTime": 1595974860111
+    },
+    {
+        "transactionName": "goto_Flight",
+        "rawStartTime": 1595974865115,
+        "rawEndTime": 1595974865707
+    },
+    {
+        "transactionName": "Entry_Data_Flight",
+        "rawStartTime": 1595974865709,
+        "rawEndTime": 1595974865921
+    },
+    {
+        "transactionName": "choise_ticket",
+        "rawStartTime": 1595974865923,
+        "rawEndTime": 1595974866175
+    },
+    {
+        "transactionName": "goto_Itinerary",
+        "rawStartTime": 1595974866177,
+        "rawEndTime": 1595974866585
+    },
+    {
+        "transactionName": "goto_home",
+        "rawStartTime": 1595974866587,
+        "rawEndTime": 1595974866912
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1595974871914,
+        "rawEndTime": 1595974872365
+    },
+    {
+        "transactionName": "01_Search_Itinerary",
+        "rawStartTime": 1595974854139,
+        "rawEndTime": 1595974872367
+    }
+]

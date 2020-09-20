@@ -1,0 +1,528 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Notify: Transaction "02_Search_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(9): Notify: Transaction "Load_start_Page" started.	[MsgId: MMSG-16999]
+Action.c(12): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(24): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(24): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(26): t=6899ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 366\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6899ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+Action.c(26):     <HTML>\n
+Action.c(26):     <HEAD>\n
+Action.c(26):     <title>Web Tours</title>\n
+Action.c(26):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+Action.c(26):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+Action.c(26):      marginwidth="2"/>\n
+Action.c(26):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+Action.c(26):     ize" marginheight="2" marginwidth="2" />\n
+Action.c(26):     </frameset>\n
+Action.c(26):     </HEAD>\n
+Action.c(26):     </HTML>\n
+Action.c(26):     \n
+Action.c(26): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(26): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(26): t=6902ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 710\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6902ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+Action.c(26):     <!DOCTYPE html>\n
+Action.c(26):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+Action.c(26):     <HEAD></HEAD>\n
+Action.c(26):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+Action.c(26):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+Action.c(26):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+Action.c(26):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+Action.c(26):     \t\t\t<tr>\n
+Action.c(26):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+Action.c(26):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+Action.c(26):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+Action.c(26):     \t\t\t\t<td align="right"></td>\n
+Action.c(26):     \t\t\t\t<td></td>\n
+Action.c(26):     \t\t\t</tr>\n
+Action.c(26):     \t\t</table>\n
+Action.c(26):     \t</BODY>\n
+Action.c(26):     </HTML>
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(26): t=6903ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(26):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 601\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: image/png\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6903ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+Action.c(26): t=6904ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:14 GMT\r\n
+Action.c(26):     ETag: "5000000054634-105b-5a9dea1169ef1"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 4187\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: image/png\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6904ms: 2620-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Action.c(26): t=6904ms: 1567-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Action.c(26): t=7011ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Set-Cookie: MSO=SID&1595925504; path=/\r\n
+Action.c(26):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 27-Jul-2020 08:38:24 GMT\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Transfer-Encoding: chunked\r\n
+Action.c(26):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7011ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     2ae\r\n
+Action.c(26): t=7012ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     \r\n
+Action.c(26): t=7012ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     <!-- \n
+Action.c(26):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(26):      Also, the server options have been loaded into the cookie called\n
+Action.c(26):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(26):      --->\n
+Action.c(26):     \n
+Action.c(26):     <html>\n
+Action.c(26):     <title>Web Tours</title>\n
+Action.c(26):        <!-- Frame Set -->\n
+Action.c(26):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(26):           <!-- Navigation Frame -->\n
+Action.c(26):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(26):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(26):           <!-- Home Frame -->\n
+Action.c(26):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(26):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(26):        </frameset>\n
+Action.c(26):     </html>\n
+Action.c(26):     \n
+Action.c(26):     </body>\n
+Action.c(26):     </html>
+Action.c(26): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(26): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(26): t=7015ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "5000000054610-551-5a9dea103dde3"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 1361\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7015ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+Action.c(26):     <HTML>\n
+Action.c(26):     <HEAD>\n
+Action.c(26):     \t<title>Web Tours</title>\n
+Action.c(26):     </HEAD>\n
+Action.c(26):     <style>\n
+Action.c(26):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(26):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(26):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(26):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(26):     N: none}\n
+Action.c(26):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(26):     CORATION: underline}\n
+Action.c(26):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     </style>\n
+Action.c(26):     <body bgcolor="#e0e7f1">\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <br/>\n
+Action.c(26):     <table border="0">\n
+Action.c(26):     <tr><td></td></tr>\n
+Action.c(26):     <TR><TD></TD></TR>\n
+Action.c(26):     <TR><TD>\n
+Action.c(26):     <blockquote>\n
+Action.c(26):     <H1><b>Web Tours</b></H1>\n
+Action.c(26):     Welcome to the Web Tours site.\n
+Action.c(26):     <br/>\n
+Action.c(26):     To make reservations,please enter your account information to the left.\n
+Action.c(26):     <br/>\n
+Action.c(26):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(26):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(26):     <br/>\n
+Action.c(26):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(26):     tration</b></A> link.\n
+Action.c(26):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(26):     <br/><small>\n
+Action.c(26):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(26):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(26):     </small>\n
+Action.c(26):     </blockquote></TD>\n
+Action.c(26):     <TD></TD></TR>\n
+Action.c(26):     </table>\n
+Action.c(26):     </body>\n
+Action.c(26):     </HTML>\n
+Action.c(26): t=7016ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     0\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7109ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Expires: Mon, 27 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=98\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Transfer-Encoding: chunked\r\n
+Action.c(26):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7109ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     5c9\r\n
+Action.c(26): t=7109ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     \r\n
+Action.c(26): t=7109ms: 1481-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     <!DOCTYPE html\n
+Action.c(26):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(26):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(26):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(26):     <head>\n
+Action.c(26):     <title>Web Tours Navigation Bar</title>\n
+Action.c(26):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(26):     </head>\n
+Action.c(26):     <body bgcolor="#E0E7F1">\n
+Action.c(26):     <style>\n
+Action.c(26):     blockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(26):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(26):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     small {font-family: tahoma; font-size : 8pt}\n
+Action.c(26):     </style>\n
+Action.c(26):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+Action.c(26):     <input type="hidden" name="userSession" value="129277.076063183zztQziQpzDQiQipVDHz"/>\n
+Action.c(26):     <table border="0"><tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><small>&nbsp;Username</small></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><small>&nbsp;Password</small></td>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(26):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(26):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(26):     </form>\n
+Action.c(26):     \n
+Action.c(26):     </body>\n
+Action.c(26):     </html>\n
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(26): t=7111ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=8)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:24 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(26):     ETag: "5000000054630-2a7-5a9dea1142230"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 679\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=98\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: image/gif\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7111ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=8)
+Action.c(26): t=7113ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     0\r\n
+Action.c(26):     \r\n
+Action.c(26): Error: C interpreter run time error: Action.c (26):  Error -- memory violation : Exception ACCESS_VIOLATION received.	[MsgId: MERR-19890]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Notify: Transaction "02_Search_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(9): Notify: Transaction "Load_start_Page" started.	[MsgId: MMSG-16999]
+Action.c(12): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(24): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(24): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(26): t=2029ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:19 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 366\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2038ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+Action.c(26):     <HTML>\n
+Action.c(26):     <HEAD>\n
+Action.c(26):     <title>Web Tours</title>\n
+Action.c(26):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+Action.c(26):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+Action.c(26):      marginwidth="2"/>\n
+Action.c(26):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+Action.c(26):     ize" marginheight="2" marginwidth="2" />\n
+Action.c(26):     </frameset>\n
+Action.c(26):     </HEAD>\n
+Action.c(26):     </HTML>\n
+Action.c(26):     \n
+Action.c(26): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(26): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(26): t=2051ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:19 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 710\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2052ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+Action.c(26):     <!DOCTYPE html>\n
+Action.c(26):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+Action.c(26):     <HEAD></HEAD>\n
+Action.c(26):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+Action.c(26):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+Action.c(26):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+Action.c(26):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+Action.c(26):     \t\t\t<tr>\n
+Action.c(26):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+Action.c(26):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+Action.c(26):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+Action.c(26):     \t\t\t\t<td align="right"></td>\n
+Action.c(26):     \t\t\t\t<td></td>\n
+Action.c(26):     \t\t\t</tr>\n
+Action.c(26):     \t\t</table>\n
+Action.c(26):     \t</BODY>\n
+Action.c(26):     </HTML>
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(26): t=2078ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:19 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(26):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 601\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: image/png\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2078ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+Action.c(26): t=2090ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:19 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:14 GMT\r\n
+Action.c(26):     ETag: "5000000054634-105b-5a9dea1169ef1"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 4187\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: image/png\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2090ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Action.c(26): t=2737ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:19 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Set-Cookie: MSO=SID&1595925500; path=/\r\n
+Action.c(26):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 27-Jul-2020 08:38:20 GMT\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Transfer-Encoding: chunked\r\n
+Action.c(26):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2738ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     2ae\r\n
+Action.c(26): t=2738ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     \r\n
+Action.c(26): t=2738ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     <!-- \n
+Action.c(26):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(26):      Also, the server options have been loaded into the cookie called\n
+Action.c(26):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(26):      --->\n
+Action.c(26):     \n
+Action.c(26):     <html>\n
+Action.c(26):     <title>Web Tours</title>\n
+Action.c(26):        <!-- Frame Set -->\n
+Action.c(26):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(26):           <!-- Navigation Frame -->\n
+Action.c(26):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(26):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(26):           <!-- Home Frame -->\n
+Action.c(26):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(26):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(26):        </frameset>\n
+Action.c(26):     </html>\n
+Action.c(26):     \n
+Action.c(26):     </body>\n
+Action.c(26):     </html>
+Action.c(26): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(26): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(26): t=2760ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+Action.c(26):     0\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2761ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:20 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+Action.c(26):     ETag: "5000000054610-551-5a9dea103dde3"\r\n
+Action.c(26):     Accept-Ranges: bytes\r\n
+Action.c(26):     Content-Length: 1361\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Content-Type: text/html\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2761ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+Action.c(26):     <HTML>\n
+Action.c(26):     <HEAD>\n
+Action.c(26):     \t<title>Web Tours</title>\n
+Action.c(26):     </HEAD>\n
+Action.c(26):     <style>\n
+Action.c(26):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(26):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(26):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(26):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(26):     N: none}\n
+Action.c(26):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(26):     CORATION: underline}\n
+Action.c(26):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     </style>\n
+Action.c(26):     <body bgcolor="#e0e7f1">\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <BR/>\n
+Action.c(26):     <br/>\n
+Action.c(26):     <table border="0">\n
+Action.c(26):     <tr><td></td></tr>\n
+Action.c(26):     <TR><TD></TD></TR>\n
+Action.c(26):     <TR><TD>\n
+Action.c(26):     <blockquote>\n
+Action.c(26):     <H1><b>Web Tours</b></H1>\n
+Action.c(26):     Welcome to the Web Tours site.\n
+Action.c(26):     <br/>\n
+Action.c(26):     To make reservations,please enter your account information to the left.\n
+Action.c(26):     <br/>\n
+Action.c(26):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(26):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(26):     <br/>\n
+Action.c(26):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(26):     tration</b></A> link.\n
+Action.c(26):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(26):     <br/><small>\n
+Action.c(26):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(26):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(26):     </small>\n
+Action.c(26):     </blockquote></TD>\n
+Action.c(26):     <TD></TD></TR>\n
+Action.c(26):     </table>\n
+Action.c(26):     </body>\n
+Action.c(26):     </HTML>\n
+Action.c(26): t=2963ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Date: Tue, 28 Jul 2020 08:38:20 GMT\r\n
+Action.c(26):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(26):     Expires: Mon, 27 Jul 2020 08:38:20 GMT\r\n
+Action.c(26):     Keep-Alive: timeout=5, max=98\r\n
+Action.c(26):     Connection: Keep-Alive\r\n
+Action.c(26):     Transfer-Encoding: chunked\r\n
+Action.c(26):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2963ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     5d0\r\n
+Action.c(26): t=2963ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     \r\n
+Action.c(26):     0\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2963ms: 1488-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+Action.c(26):     <!DOCTYPE html\n
+Action.c(26):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(26):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(26):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(26):     <head>\n
+Action.c(26):     <title>Web Tours Navigation Bar</title>\n
+Action.c(26):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(26):     </head>\n
+Action.c(26):     <body bgcolor="#E0E7F1">\n
+Action.c(26):     <style>\n
+Action.c(26):     blockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(26):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(26):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(26):     small {font-family: tahoma; font-size : 8pt}\n
+Action.c(26):     </style>\n
+Action.c(26):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+Action.c(26):     <input type="hidden" name="userSession" value="129277.075739166zztQziQpfiDDDDDDDQiQipVDHf"
+Action.c(26):     />\n
+Action.c(26):     <table border="0"><tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><small>&nbsp;Username</small></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><small>&nbsp;Password</small></td>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td>&nbsp;</td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td>\n
+Action.c(26):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(26):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(26):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(26):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(26):     </form>\n
+Action.c(26):     \n
+Action.c(26):     </body>\n
+Action.c(26):     </html>\n
+Action.c(26): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(26): Error: C interpreter run time error: Action.c (26):  Error -- memory violation : Exception ACCESS_VIOLATION received.	[MsgId: MERR-19890]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

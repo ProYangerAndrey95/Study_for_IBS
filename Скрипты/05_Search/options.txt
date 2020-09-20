@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\SusPecT\Documents\Appline_Study\Скрипты\05_Search
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\suspect\documents\appline_study\скрипты\05_search\\logfile.log
+d:\suspect\documents\appline_study\скрипты\05_search\\combined_05_Search.c
+d:\suspect\documents\appline_study\скрипты\05_search\\pre_cci.c

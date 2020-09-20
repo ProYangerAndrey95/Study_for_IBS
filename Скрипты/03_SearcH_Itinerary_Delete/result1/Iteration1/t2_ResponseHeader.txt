@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 02 Aug 2020 18:15:32 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Yevdokim&address2&Moscow%20MO%20Moscow&username&barinov&hash&22&lastName&Barinov%0A&address1&pereulok%20Volovya%20&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

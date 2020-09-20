@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Load_start_Page",
+        "rawStartTime": 1595974895610,
+        "rawEndTime": 1595974896079
+    },
+    {
+        "transactionName": "login_user",
+        "rawStartTime": 1595974901080,
+        "rawEndTime": 1595974901309
+    },
+    {
+        "transactionName": "goto_Itinerary",
+        "rawStartTime": 1595974906311,
+        "rawEndTime": 1595974906576
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1595974916581,
+        "rawEndTime": 1595974916904
+    },
+    {
+        "transactionName": "04_itinerary",
+        "rawStartTime": 1595974895609,
+        "rawEndTime": 1595974916906
+    }
+]

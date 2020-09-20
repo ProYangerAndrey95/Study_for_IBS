@@ -1,0 +1,648 @@
+Virtual User Script started at: 16.07.2020 22:16:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 7; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\SusPecT\AppData\Local\Temp\lr5tmpdirJbp.20\lrcfggYe.21\cfgQP0.28"  	[MsgId: MMSG-27141]
+vuser_init.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+vuser_init.c(20): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(20): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(22): web_url("WebTours") started  	[MsgId: MMSG-26355]
+vuser_init.c(22): t=265ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:10 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 366\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=265ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+vuser_init.c(22):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+vuser_init.c(22):      marginwidth="2"/>\n
+vuser_init.c(22):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+vuser_init.c(22):     ize" marginheight="2" marginwidth="2" />\n
+vuser_init.c(22):     </frameset>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     </HTML>\n
+vuser_init.c(22):     \n
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Virtual User Script started at: 16.07.2020 22:16:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 7; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\SusPecT\AppData\Local\Temp\lr5tmpdirJbp.20\lrcfggYe.21\cfgQP0.28"  	[MsgId: MMSG-27141]
+vuser_init.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+vuser_init.c(20): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(20): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(22): web_url("WebTours") started  	[MsgId: MMSG-26355]
+vuser_init.c(22): t=297ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:10 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 710\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22): t=298ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:10 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 366\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=299ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+vuser_init.c(22):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+vuser_init.c(22):      marginwidth="2"/>\n
+vuser_init.c(22):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+vuser_init.c(22):     ize" marginheight="2" marginwidth="2" />\n
+vuser_init.c(22):     </frameset>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     </HTML>\n
+vuser_init.c(22):     \n
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=319ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     <!DOCTYPE html>\n
+vuser_init.c(22):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+vuser_init.c(22):     <HEAD></HEAD>\n
+vuser_init.c(22):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+vuser_init.c(22):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+vuser_init.c(22):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+vuser_init.c(22):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+vuser_init.c(22):     \t\t\t<tr>\n
+vuser_init.c(22):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+vuser_init.c(22):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+vuser_init.c(22):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+vuser_init.c(22):     \t\t\t\t<td align="right"></td>\n
+vuser_init.c(22):     \t\t\t\t<td></td>\n
+vuser_init.c(22):     \t\t\t</tr>\n
+vuser_init.c(22):     \t\t</table>\n
+vuser_init.c(22):     \t</BODY>\n
+vuser_init.c(22):     </HTML>
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): t=345ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 710\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=347ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     <!DOCTYPE html>\n
+vuser_init.c(22):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+vuser_init.c(22):     <HEAD></HEAD>\n
+vuser_init.c(22):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+vuser_init.c(22):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+vuser_init.c(22):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+vuser_init.c(22):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+vuser_init.c(22):     \t\t\t<tr>\n
+vuser_init.c(22):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+vuser_init.c(22):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+vuser_init.c(22):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+vuser_init.c(22):     \t\t\t\t<td align="right"></td>\n
+vuser_init.c(22):     \t\t\t\t<td></td>\n
+vuser_init.c(22):     \t\t\t</tr>\n
+vuser_init.c(22):     \t\t</table>\n
+vuser_init.c(22):     \t</BODY>\n
+vuser_init.c(22):     </HTML>
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): t=352ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 601\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=353ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22): t=420ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:14 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054634-105b-5a9dea1169ef1"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 4187\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=422ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Virtual User Script started at: 16.07.2020 22:16:11	[MsgId: MMSG-15967]
+Virtual User Script started at: 16.07.2020 22:16:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 7; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\SusPecT\AppData\Local\Temp\lr5tmpdirJbp.20\lrcfggYe.21\cfgQP0.28"  	[MsgId: MMSG-27141]
+vuser_init.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+vuser_init.c(20): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(20): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(22): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 7; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\SusPecT\AppData\Local\Temp\lr5tmpdirJbp.20\lrcfggYe.21\cfgQP0.28"  	[MsgId: MMSG-27141]
+vuser_init.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+vuser_init.c(20): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(20): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(22): web_url("WebTours") started  	[MsgId: MMSG-26355]
+vuser_init.c(22): t=547ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 366\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=551ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+vuser_init.c(22):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+vuser_init.c(22):      marginwidth="2"/>\n
+vuser_init.c(22):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+vuser_init.c(22):     ize" marginheight="2" marginwidth="2" />\n
+vuser_init.c(22):     </frameset>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     </HTML>\n
+vuser_init.c(22):     \n
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): t=555ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:10 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Set-Cookie: MSO=SID&1594926971; path=/\r\n
+vuser_init.c(22):     Set-Cookie: MTUserInfo=; path=/; expires=Wed, 15-Jul-2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Transfer-Encoding: chunked\r\n
+vuser_init.c(22):     Content-Type: text/html; charset=ISO-8859-1\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=556ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     2ae\r\n
+vuser_init.c(22): t=557ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=557ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     <!-- \n
+vuser_init.c(22):      A Session ID has been created and loaded into a cookie called MSO.\n
+vuser_init.c(22):      Also, the server options have been loaded into the cookie called\n
+vuser_init.c(22):      MSO as well.  The server options can be set via the Admin page.\n
+vuser_init.c(22):      --->\n
+vuser_init.c(22):     \n
+vuser_init.c(22):     <html>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):        <!-- Frame Set -->\n
+vuser_init.c(22):        <frameset cols="160,*" border="1" frameborder="1">\n
+vuser_init.c(22):           <!-- Navigation Frame -->\n
+vuser_init.c(22):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+vuser_init.c(22):                 noresize="noresize" scrolling="auto"/>\n
+vuser_init.c(22):           <!-- Home Frame -->\n
+vuser_init.c(22):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+vuser_init.c(22):                 noresize="noresize" scrolling="auto"/>\n
+vuser_init.c(22):        </frameset>\n
+vuser_init.c(22):     </html>\n
+vuser_init.c(22):     \n
+vuser_init.c(22):     </body>\n
+vuser_init.c(22):     </html>
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+vuser_init.c(22): t=562ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 366\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=563ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+vuser_init.c(22):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+vuser_init.c(22): t=568ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 710\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=587ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     <!DOCTYPE html>\n
+vuser_init.c(22):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+vuser_init.c(22):     <HEAD></HEAD>\n
+vuser_init.c(22):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+vuser_init.c(22):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+vuser_init.c(22):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+vuser_init.c(22):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+vuser_init.c(22):     \t\t\t<tr>\n
+vuser_init.c(22):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+vuser_init.c(22):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+vuser_init.c(22):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+vuser_init.c(22):     \t\t\t\t<td align="right"></td>\n
+vuser_init.c(22):     \t\t\t\t<td></td>\n
+vuser_init.c(22):     \t\t\t</tr>\n
+vuser_init.c(22):     \t\t</table>\n
+vuser_init.c(22):     \t</BODY>\n
+vuser_init.c(22):     </HTML>
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Virtual User Script started at: 16.07.2020 22:16:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+vuser_init.c(22): t=593ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     0\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=594ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054610-551-5a9dea103dde3"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 1361\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=595ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     \t<title>Web Tours</title>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     <style>\n
+vuser_init.c(22):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+vuser_init.c(22):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+vuser_init.c(22):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+vuser_init.c(22):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+vuser_init.c(22):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+vuser_init.c(22):     N: none}\n
+vuser_init.c(22):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+vuser_init.c(22):     CORATION: underline}\n
+vuser_init.c(22):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+vuser_init.c(22):     </style>\n
+vuser_init.c(22):     <body bgcolor="#e0e7f1">\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     <table border="0">\n
+vuser_init.c(22):     <tr><td></td></tr>\n
+vuser_init.c(22):     <TR><TD></TD></TR>\n
+vuser_init.c(22):     <TR><TD>\n
+vuser_init.c(22):     <blockquote>\n
+vuser_init.c(22):     <H1><b>Web Tours</b></H1>\n
+vuser_init.c(22):     Welcome to the Web Tours site.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     To make reservations,please enter your account information to the left.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+vuser_init.c(22):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+vuser_init.c(22):     tration</b></A> link.\n
+vuser_init.c(22):     <br/><br/><br/><br/><br/><br/>\n
+vuser_init.c(22):     <br/><small>\n
+vuser_init.c(22):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+vuser_init.c(22):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+vuser_init.c(22):     </small>\n
+vuser_init.c(22):     </blockquote></TD>\n
+vuser_init.c(22):     <TD></TD></TR>\n
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 7; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+vuser_init.c(22):     </table>\n
+vuser_init.c(22):     </body>\n
+vuser_init.c(22):     </HTML>\n
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\SusPecT\AppData\Local\Temp\lr5tmpdirJbp.20\lrcfggYe.21\cfgQP0.28"  	[MsgId: MMSG-27141]
+vuser_init.c(8): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+vuser_init.c(20): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(20): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(22): web_url("WebTours") started  	[MsgId: MMSG-26355]
+vuser_init.c(22): t=605ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054611-16e-5a9dea10462b5"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 366\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=606ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+vuser_init.c(22):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+vuser_init.c(22):      marginwidth="2"/>\n
+vuser_init.c(22):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+vuser_init.c(22):     ize" marginheight="2" marginwidth="2" />\n
+vuser_init.c(22):     </frameset>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     </HTML>\n
+vuser_init.c(22):     \n
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): t=625ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 710\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=626ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     <!DOCTYPE html>\n
+vuser_init.c(22):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+vuser_init.c(22):     <HEAD></HEAD>\n
+vuser_init.c(22):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+vuser_init.c(22):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+vuser_init.c(22):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+vuser_init.c(22):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+vuser_init.c(22):     \t\t\t<tr>\n
+vuser_init.c(22):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+vuser_init.c(22):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+vuser_init.c(22):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+vuser_init.c(22):     \t\t\t\t<td align="right"></td>\n
+vuser_init.c(22):     \t\t\t\t<td></td>\n
+vuser_init.c(22):     \t\t\t</tr>\n
+vuser_init.c(22):     \t\t</table>\n
+vuser_init.c(22):     \t</BODY>\n
+vuser_init.c(22):     </HTML>
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): t=630ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 601\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=631ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22):      marginwidth="2"/>\n
+vuser_init.c(22):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+vuser_init.c(22):     ize" marginheight="2" marginwidth="2" />\n
+vuser_init.c(22):     </frameset>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     </HTML>\n
+vuser_init.c(22):     \n
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+vuser_init.c(22): t=531ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 601\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=731ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22): t=732ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Set-Cookie: MSO=SID&1594926971; path=/\r\n
+vuser_init.c(22):     Set-Cookie: MTUserInfo=; path=/; expires=Wed, 15-Jul-2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Transfer-Encoding: chunked\r\n
+vuser_init.c(22):     Content-Type: text/html; charset=ISO-8859-1\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=733ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     2ae\r\n
+vuser_init.c(22): t=733ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=733ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+vuser_init.c(22):     <!-- \n
+vuser_init.c(22):      A Session ID has been created and loaded into a cookie called MSO.\n
+vuser_init.c(22):      Also, the server options have been loaded into the cookie called\n
+vuser_init.c(22):      MSO as well.  The server options can be set via the Admin page.\n
+vuser_init.c(22):      --->\n
+vuser_init.c(22):     \n
+vuser_init.c(22):     <html>\n
+vuser_init.c(22):     <title>Web Tours</title>\n
+vuser_init.c(22):        <!-- Frame Set -->\n
+vuser_init.c(22):        <frameset cols="160,*" border="1" frameborder="1">\n
+vuser_init.c(22):           <!-- Navigation Frame -->\n
+vuser_init.c(22):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+vuser_init.c(22):                 noresize="noresize" scrolling="auto"/>\n
+vuser_init.c(22):           <!-- Home Frame -->\n
+vuser_init.c(22):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+vuser_init.c(22):                 noresize="noresize" scrolling="auto"/>\n
+vuser_init.c(22):        </frameset>\n
+vuser_init.c(22):     </html>\n
+vuser_init.c(22):     \n
+vuser_init.c(22):     </body>\n
+vuser_init.c(22):     </html>
+vuser_init.c(22): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+vuser_init.c(22): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+vuser_init.c(22): t=736ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054628-259-5a9dea1101ec9"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 601\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=737ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+vuser_init.c(22): t=737ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:14 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054634-105b-5a9dea1169ef1"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 4187\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=738ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+vuser_init.c(22): t=774ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "500000005460f-2c6-5a9dea1035529"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 710\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=775ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+vuser_init.c(22):     <!DOCTYPE html>\n
+vuser_init.c(22):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+vuser_init.c(22):     <HEAD></HEAD>\n
+vuser_init.c(22):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+vuser_init.c(22):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+vuser_init.c(22):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+vuser_init.c(22):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+vuser_init.c(22):     \t\t\t<tr>\n
+vuser_init.c(22):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+vuser_init.c(22):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+vuser_init.c(22):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+vuser_init.c(22):     \t\t\t\t<td align="right"></td>\n
+vuser_init.c(22):     \t\t\t\t<td></td>\n
+vuser_init.c(22):     \t\t\t</tr>\n
+vuser_init.c(22):     \t\t</table>\n
+vuser_init.c(22):     \t</BODY>\n
+vuser_init.c(22):     </HTML>
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+vuser_init.c(22): t=811ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:12 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054610-551-5a9dea103dde3"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 1361\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=99\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: text/html\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=812ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+vuser_init.c(22):     <HTML>\n
+vuser_init.c(22):     <HEAD>\n
+vuser_init.c(22):     \t<title>Web Tours</title>\n
+vuser_init.c(22):     </HEAD>\n
+vuser_init.c(22):     <style>\n
+vuser_init.c(22):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+vuser_init.c(22):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+vuser_init.c(22):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+vuser_init.c(22):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+vuser_init.c(22):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+vuser_init.c(22):     N: none}\n
+vuser_init.c(22):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+vuser_init.c(22):     CORATION: underline}\n
+vuser_init.c(22):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+vuser_init.c(22):     </style>\n
+vuser_init.c(22):     <body bgcolor="#e0e7f1">\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <BR/>\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     <table border="0">\n
+vuser_init.c(22):     <tr><td></td></tr>\n
+vuser_init.c(22):     <TR><TD></TD></TR>\n
+vuser_init.c(22):     <TR><TD>\n
+vuser_init.c(22):     <blockquote>\n
+vuser_init.c(22):     <H1><b>Web Tours</b></H1>\n
+vuser_init.c(22):     Welcome to the Web Tours site.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     To make reservations,please enter your account information to the left.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+vuser_init.c(22):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+vuser_init.c(22):     <br/>\n
+vuser_init.c(22):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+vuser_init.c(22):     tration</b></A> link.\n
+vuser_init.c(22):     <br/><br/><br/><br/><br/><br/>\n
+vuser_init.c(22):     <br/><small>\n
+vuser_init.c(22):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+vuser_init.c(22):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+vuser_init.c(22):     </small>\n
+vuser_init.c(22):     </blockquote></TD>\n
+vuser_init.c(22):     <TD></TD></TR>\n
+vuser_init.c(22):     </table>\n
+vuser_init.c(22):     </body>\n
+vuser_init.c(22):     </HTML>\n
+Abort was called from an action.	[MsgId: MMSG-10447]
+Vuser 0 (thread 6860), ended OK."	[MsgId: MMSG-10695]
+vuser_init.c(22): t=829ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+vuser_init.c(22):     HTTP/1.1 200 OK\r\n
+vuser_init.c(22):     Date: Thu, 16 Jul 2020 19:16:11 GMT\r\n
+vuser_init.c(22):     Server: Apache/2.2.21 (Win32)\r\n
+vuser_init.c(22):     Last-Modified: Tue, 07 Jul 2020 19:02:14 GMT\r\n
+vuser_init.c(22):     ETag: "5000000054634-105b-5a9dea1169ef1"\r\n
+vuser_init.c(22):     Accept-Ranges: bytes\r\n
+vuser_init.c(22):     Content-Length: 4187\r\n
+vuser_init.c(22):     Keep-Alive: timeout=5, max=100\r\n
+vuser_init.c(22):     Connection: Keep-Alive\r\n
+vuser_init.c(22):     Content-Type: image/png\r\n
+vuser_init.c(22):     \r\n
+vuser_init.c(22): t=830ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+Abort was called from an action.	[MsgId: MMSG-10447]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Vuser 2 (thread 8620), ended OK."	[MsgId: MMSG-10695]
+Vuser 3 (thread 8280), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Vuser 4 (thread 9876), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Vuser 1 (thread 8312), ended OK."	[MsgId: MMSG-10695]

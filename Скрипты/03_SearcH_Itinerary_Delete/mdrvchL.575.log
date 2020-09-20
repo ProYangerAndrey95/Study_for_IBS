@@ -1,0 +1,1220 @@
+Start auto log messages stack - Iteration 34.	[MsgId: MMSG-10545]
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="17" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="218890383-1338515-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Martyn Aristarkhov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 700 <BR/> (CC: x-5910)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/02/2020\n
+Action.c(97):      :  8am : Flight 040 leaves Denver  for Paris.<br>  08/16/2020\n
+Action.c(97):      :  8am : Flight 400 leaves Paris  for Denver.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="18" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="156298909-14384699-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Varlam Vikhrov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1096 <BR/> (CC: x-4220)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/02/2020\n
+Action.c(97):      :  8am : Flight 070 leaves Denver  for Seattle.<br>  08/26/2020\n
+Action.c(97):      :  8am : Flight 700 leaves Seattle  for Denver.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="19" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="25742855-1519245-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Gleb Gri\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 188 <BR/> (CC: x-6950)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/05/2020\n
+Action.c(97):      :  8am : Flight 570 leaves Portland  for Seattle.<br>  08/28/2020\n
+Action.c(97):      :  8am : Flight 750 leaves Seattle  for Portland.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="20" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="138149272-1561594-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Svyatoslav Borovoy\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 730 <BR/> (CC: x-3730)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/02/2020\n
+Action.c(97):      :  8am : Flight 030 leaves Denver  for Los Angeles.<br>  08/27/2020\n
+Action.c(97):      :  8am : Flight 300 leaves Los Angeles  for Denver.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><
+Action.c(97): Notify: Saving Parameter "flightId_14 = 344473734".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_15 = 128165218".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_16 = 156307786".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_17 = 218890383".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_18 = 156298909".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_19 = 25742855".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_20 = 138149272".	[MsgId: MMSG-13798]
+Action.c(97): t=1158747ms: 8760-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=1047)
+Action.c(97):     input type="checkbox" name="21" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="38519647-1638534-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Maksim Arefov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 944 <BR/> (CC: x-1040)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 030 leaves Denver  for Los Angeles.<br>  08/17/2020\n
+Action.c(97):      :  8am : Flight 300 leaves Los Angeles  for Denver.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="22" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="337060774-17277061-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Paisiy Volkov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1804 <BR/> (CC: x-9100)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/06/2020\n
+Action.c(97):      :  8am : Flight 640 leaves San Francisco  for Paris.<br>  08/20/2020\n
+Action.c(97):      :  8am : Flight 460 leaves Paris  for San Francisco.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="23" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="1952181521-18446318-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Vasiliy Vnifatyev\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2146 <BR/> (CC: x-5270)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/08/2020\n
+Action.c(97):      :  8am : Flight 890 leaves Sydney  for Zurich.<br>  08/23/2020\n
+Action.c(97):      :  8am : Flight 980 leaves Zurich  for Sydney.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="24" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="67811861-1868503-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Anatoliy Aparin\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 542 <BR/> (CC: x-1830)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/03/2020\n
+Action.c(97):      :  8am : Flight 920 leaves Zurich  for London.<br>  08/14/2020\n
+Action.c(97):      :  8am : Flight 290 leaves London  for Zurich.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="25" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="363722983-19423162-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Makar Arefin\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1110 <BR/> (CC: x-9820)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/05/2020\n
+Action.c(97):      :  8am : Flight 520 leaves Portland  for London.<br>  08/19/2020\n
+Action.c(97):      :  8am : Flight 250 leaves London  for Portland.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="26" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="1918818563-20138649-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Valeryan Vintilov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2438 <BR/> (CC: x-5180)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/05/2020\n
+Action.c(97):      :  8am : Flight 810 leaves Sydney  for Frankfurt.<br>  08/19/2020\n
+Action.c(97):      :  8am : Flight 180 leaves Frankfurt  for Sydney.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="27" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="341868922-21261677-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Svyatoslav Borovoy\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1804 <BR/> (CC: x-9230)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/04/2020\n
+Action.c(97):      :  8am : Flight 460 leaves Paris  for San Francisco.<br>  08/14/2020\n
+Action.c(97):      :  8am : Flight 640 leaves San Francisco  for Paris.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="28" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="323347443-22177072-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Semon Bortsov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD
+Action.c(97): Notify: Saving Parameter "flightId_21 = 38519647".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_22 = 337060774".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_23 = 1952181521".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_24 = 67811861".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_25 = 363722983".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_26 = 1918818563".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_27 = 341868922".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_28 = 323347443".	[MsgId: MMSG-13798]
+Action.c(97): t=1158751ms: 8760-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=1047)
+Action.c(97):      width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1942 <BR/> (CC: x-8730)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       07/30/2020\n
+Action.c(97):      :  8am : Flight 380 leaves Los Angeles  for Sydney.<br>  08/09/2020\n
+Action.c(97):      :  8am : Flight 830 leaves Sydney  for Los Angeles.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="29" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="155940024-22946256-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Germann Grigoryev\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1338 <BR/> (CC: x-4210)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/08/2020\n
+Action.c(97):      :  8am : Flight 380 leaves Los Angeles  for Sydney.<br>  08/20/2020\n
+Action.c(97):      :  8am : Flight 830 leaves Sydney  for Los Angeles.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="30" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="433600039-23284778-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Maksim Arefov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2120 <BR/> (CC: x-1170)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/01/2020\n
+Action.c(97):      :  8am : Flight 720 leaves Seattle  for London.<br>  08/27/2020\n
+Action.c(97):      :  8am : Flight 270 leaves London  for Seattle.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="31" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="444659302-24500179-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Martyn Aristarkhov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2334 <BR/> (CC: x-1200)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/02/2020\n
+Action.c(97):      :  8am : Flight 580 leaves Portland  for Sydney.<br>  08/23/2020\n
+Action.c(97):      :  8am : Flight 850 leaves Sydney  for Portland.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="32" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="97417058-25092397-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Pakhomiy Gostev\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1172 <BR/> (CC: x-2630)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/04/2020\n
+Action.c(97):      :  8am : Flight 260 leaves London  for San Francisco.<br>  08/15/2020\n
+Action.c(97):      :  8am : Flight 620 leaves San Francisco  for London.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="33" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="2526092635-25800179-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Parfeniy Gordeyev\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2330 <BR/> (CC: x-6820)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/04/2020\n
+Action.c(97):      :  8am : Flight 450 leaves Paris  for Portland.<br>  08/11/2020\n
+Action.c(97):      :  8am : Flight 540 leaves Portland  for Paris.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="34" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="6669003-2643090-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Samuil Borisenko\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 174 <BR/> (CC: x-1800)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 630 leaves San Francisco  for Los Angeles.<br>  08/27/2020\n
+Action.c(97):      :  8am : Flight 360 leaves Los Angeles  for San Francisco.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="35" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="178891121-2738506-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Venedikt Voynov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 586 <BR/> (CC: x-4830)\n
+Action.c(97):           </td> </
+Action.c(97): Notify: Saving Parameter "flightId_29 = 155940024".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_30 = 433600039".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_31 = 444659302".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_32 = 97417058".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_33 = 2526092635".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_34 = 6669003".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_35 = 178891121".	[MsgId: MMSG-13798]
+Action.c(97): t=1158759ms: 8760-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=1047)
+Action.c(97):     tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 060 leaves Denver  for San Francisco.<br>  08/09/2020\n
+Action.c(97):      :  8am : Flight 600 leaves San Francisco  for Denver.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="36" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="30404833-27992391-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Vasiliy Vnifatyev\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1084 <BR/> (CC: x-0820)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/01/2020\n
+Action.c(97):      :  8am : Flight 930 leaves Zurich  for Los Angeles.<br>  08/20/2020\n
+Action.c(97):      :  8am : Flight 390 leaves Los Angeles  for Zurich.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="37" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="86698545-28984728-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Alvian Anyukov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1470 <BR/> (CC: x-2340)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 860 leaves Sydney  for San Francisco.<br>  08/16/2020\n
+Action.c(97):      :  8am : Flight 680 leaves San Francisco  for Sydney.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="38" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="49273718-2994672-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Svyatopolk Borishchenko\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 747 <BR/> (CC: x-1330)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/01/2020\n
+Action.c(97):      :  8am : Flight 390 leaves Los Angeles  for Zurich.<br>  08/21/2020\n
+Action.c(97):      :  8am : Flight 930 leaves Zurich  for Los Angeles.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="39" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="1481748187-30207855-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Valeryan Vintilov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 2120 <BR/> (CC: x-4000)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 720 leaves Seattle  for London.<br>  08/16/2020\n
+Action.c(97):      :  8am : Flight 270 leaves London  for Seattle.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="40" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="42245216-30969361-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>German Grigorov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 1700 <BR/> (CC: x-1140)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       08/07/2020\n
+Action.c(97):      :  8am : Flight 620 leaves San Francisco  for London.<br>  08/16/2020\n
+Action.c(97):      :  8am : Flight 260 leaves London  for San Francisco.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <!-- Flight #1 -->\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(97):     <b>\n
+Action.c(97):     <label><input type="checkbox" name="41" value="on" /></label></font></b>\n
+Action.c(97):     <input type="hidden" name="flightID" value="282627417-3191579-AD"  />\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="45%" valign="top">\n
+Action.c(97):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(97):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(97):           <li><i>Valeriy Arsenov\n
+Action.c(97):           <li><i></i>\n
+Action.c(97):           </td></tr></table></center>\n
+Action.c(97):       </TD>\n
+Action.c(97):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(97):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(97):           <center>\n
+Action.c(97):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(97):               Andreyev Dementiy\n
+Action.c(97):     <br/>\n
+Action.c(97):               kvartal Volzhskiy Bulvar 114a<br/>\n
+Action.c(97):               Moscow MO Moscow<br/>\n
+Action.c(97):               <br/>\n
+Action.c(97):               Total Charge: $ 536 <BR/> (CC: x-7630)\n
+Action.c(97):           </td> </tr> </table>\n
+Action.c(97):           </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="3">\n
+Action.c(97):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(97):       07/30/2020\n
+Action.c(97):      :  8am : Flight 940 leaves Zurich  for Paris.<br>  08/21/2020\n
+Action.c(97):      :  8am : Flight 490 leaves Paris  for Zurich.<br>  </center>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     \n
+Action.c(97):     <TR bgcolor="#EFF2F7">\n
+Action.c(97):       <TD COLSPAN="4">\n
+Action.c(97):       <hr/>\n
+Action.c(97):       </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     <TR>\n
+Action.c(97):        <TD align="center" COLSPAN="4">\n
+Action.c(97):        <b>A total of 41 scheduled flights.</font></b>\n
+Action.c(97):        </TD>\n
+Action.c(97):     </TR>\n
+Action.c(97):     </TABLE>\n
+Action.c(97):     \n
+Action.c(97):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(97):     <TR>\n
+Action.c(97):     <TD align="left" width="50%" >\n
+Action.c(97):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(97):     er="0" /></TD>\n
+Action.c(97):     <TD align="right" width="50%" >\n
+Action.c(97):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(97):     f" border="0" /></TD>\n
+Action.c(97):     </TABLE>\n
+Action.c(97):     \n
+Action.c(97):     <div><input type="hidden" name=".cgifields" value="33"  /><input type="hidden" name=".cgif
+Action.c(97):     ields" value="32"  /><input type="hidden" name=".cgifields" value="21"  /><input type="hid
+Action.c(97):     den" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields" value="26"  /><
+Action.c(97):     input type="hidden" name=".cgifields" value="17"  /><input type="hidden" name=".cgifields"
+Action.c(97):      value="2"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" nam
+Action.c(97):     e=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="30"  /><input t
+Action.c(97):     ype="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value=
+Action.c(97):     "27"  /><input type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".c
+Action.c(97):     gifields" value="28"  /><in
+Action.c(97): Notify: Saving Parameter "flightId_36 = 30404833".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_37 = 86698545".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_38 = 49273718".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_39 = 1481748187".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_40 = 42245216".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_41 = 282627417".	[MsgId: MMSG-13798]
+Action.c(97): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(97): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(97): t=1158763ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=1047)
+Action.c(97):     \r\n
+Action.c(97):     0\r\n
+Action.c(97):     \r\n
+Action.c(97): t=1158763ms: 1463-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=1047)
+Action.c(97):     put type="hidden" name=".cgifields" value="40"  /><input type="hidden" name=".cgifields" v
+Action.c(97):     alue="20"  /><input type="hidden" name=".cgifields" value="14"  /><input type="hidden" nam
+Action.c(97):     e=".cgifields" value="24"  /><input type="hidden" name=".cgifields" value="10"  /><input t
+Action.c(97):     ype="hidden" name=".cgifields" value="31"  /><input type="hidden" name=".cgifields" value=
+Action.c(97):     "35"  /><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".c
+Action.c(97):     gifields" value="22"  /><input type="hidden" name=".cgifields" value="13"  /><input type="
+Action.c(97):     hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields" value="29" 
+Action.c(97):      /><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifiel
+Action.c(97):     ds" value="39"  /><input type="hidden" name=".cgifields" value="36"  /><input type="hidden
+Action.c(97):     " name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="9"  /><inpu
+Action.c(97):     t type="hidden" name=".cgifields" value="41"  /><input type="hidden" name=".cgifields" val
+Action.c(97):     ue="12"  /><input type="hidden" name=".cgifields" value="15"  /><input type="hidden" name=
+Action.c(97):     ".cgifields" value="38"  /><input type="hidden" name=".cgifields" value="8"  /><input type
+Action.c(97):     ="hidden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="34"
+Action.c(97):       /><input type="hidden" name=".cgifields" value="37"  /><input type="hidden" name=".cgifi
+Action.c(97):     elds" value="19"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+Action.c(97):     \n
+Action.c(97):     </center>\n
+Action.c(97):     \n
+Action.c(97):     </body>\n
+Action.c(97):     </html>
+Action.c(97): t=1158776ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=1048)
+Action.c(97):     HTTP/1.1 200 OK\r\n
+Action.c(97):     Date: Wed, 29 Jul 2020 07:27:33 GMT\r\n
+Action.c(97):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(97):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(97):     ETag: "500000005462b-2dd-5a9dea111a956"\r\n
+Action.c(97):     Accept-Ranges: bytes\r\n
+Action.c(97):     Content-Length: 733\r\n
+Action.c(97):     Keep-Alive: timeout=5, max=96\r\n
+Action.c(97):     Connection: Keep-Alive\r\n
+Action.c(97):     Content-Type: image/gif\r\n
+Action.c(97):     \r\n
+Action.c(97): t=1158776ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=1048)
+Action.c(97): t=1158776ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=1049)
+Action.c(97):     HTTP/1.1 200 OK\r\n
+Action.c(97):     Date: Wed, 29 Jul 2020 07:27:33 GMT\r\n
+Action.c(97):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(97):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(97):     ETag: "5000000054622-33f-5a9dea10c9863"\r\n
+Action.c(97):     Accept-Ranges: bytes\r\n
+Action.c(97):     Content-Length: 831\r\n
+Action.c(97):     Keep-Alive: timeout=5, max=98\r\n
+Action.c(97):     Connection: Keep-Alive\r\n
+Action.c(97):     Content-Type: image/gif\r\n
+Action.c(97):     \r\n
+Action.c(97): t=1158777ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=1049)
+Action.c(97): t=1158795ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=1050)
+Action.c(97):     HTTP/1.1 200 OK\r\n
+Action.c(97):     Date: Wed, 29 Jul 2020 07:27:33 GMT\r\n
+Action.c(97):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(97):     Last-Modified: Tue, 07 Jul 2020 19:02:13 GMT\r\n
+Action.c(97):     ETag: "5000000054621-2e6-5a9dea10c2332"\r\n
+Action.c(97):     Accept-Ranges: bytes\r\n
+Action.c(97):     Content-Length: 742\r\n
+Action.c(97):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(97):     Connection: Keep-Alive\r\n
+Action.c(97):     Content-Type: image/gif\r\n
+Action.c(97):     \r\n
+Action.c(97): t=1158796ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=1050)
+Action.c(97): Registered web_reg_find successful for "Text=No flights have been reserved"  	[MsgId: MMSG-26362]
+Action.c(97): Notify: Saving Parameter "erroMess = 0".	[MsgId: MMSG-13798]
+Action.c(97): Notify: Saving Parameter "flightId_count = 41".	[MsgId: MMSG-13798]
+Action.c(97): web_url("Itinerary Button") was successful, 57136 body bytes, 1618 header bytes, 68 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(107): Notify: Transaction "goto_Itinerary" ended with a "Pass" status (Duration: 0,6750 Wasted Time: 0,0020).	[MsgId: MMSG-16871]
+Action.c(110): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(112): Notify: Transaction "Delete_first" started.	[MsgId: MMSG-16999]
+Action.c(114): Notify: Parameter Substitution: parameter "flightId_count" =  "41"	[MsgId: MMSG-13992]
+Action.c(118): Notify: Parameter Substitution: parameter "flightId_1" =  "2655918558"	[MsgId: MMSG-13992]
+Action.c(118): Notify: Saving Parameter "cancelflight = 2655918558".	[MsgId: MMSG-13798]
+Action.c(121): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(121): Notify: Parameter Substitution: parameter "cancelflight" =  "2655918558"	[MsgId: MMSG-13992]
+Action.c(121): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(125): Notify: Parameter Substitution: parameter "cancelflight_Count" =  "1"	[MsgId: MMSG-13992]
+Action.c(127): Notify: Parameter Substitution: parameter "User_Login" =  "andreyev"	[MsgId: MMSG-13992]
+Action.c(127): Notify: Parameter Substitution: parameter "cancelflight_Count" =  "1"	[MsgId: MMSG-13992]
+Action.c(127): Notify: Parameter Substitution: parameter "flightId_count" =  "41"	[MsgId: MMSG-13992]
+Action.c(127): Error: User - andreyev; cancelflight_Count - 1; flightId_count - 41;	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

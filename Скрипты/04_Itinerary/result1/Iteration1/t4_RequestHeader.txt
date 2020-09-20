@@ -1,0 +1,9 @@
+GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1595974895; MTUserInfo=firstName&Yelisey&address2&Moscow%20MO%20Moscow&username&belokrylov&hash&22&lastName&Belokrylov%0A&address1&ulitsa%20Volynskaya%20&creditCard&&expDate&%0A
+

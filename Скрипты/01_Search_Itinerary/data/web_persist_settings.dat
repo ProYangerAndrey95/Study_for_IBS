@@ -1,0 +1,19 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2020/07/14 19:35:54
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2020/07/14 19:50:51
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2020/07/14 19:52:21
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2020/07/14 19:55:09
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2020/07/14 21:35:03
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2020/07/14 21:35:44
+StartRecordingIsDst_6=0
+[UserHomePage]
+UserHomePage=http://www.msn.com/?pc=U453&ocid=U453DHP&osmkt=ru-ru
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1

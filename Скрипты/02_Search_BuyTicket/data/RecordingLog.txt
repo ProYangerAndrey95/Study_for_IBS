@@ -1,0 +1,141 @@
+[API Trapper      ( 860: dec)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (1bd8: 494)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (1740:1aa8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (1740:1fe4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1740:1fe4)] Load Network Traffic Analyzers:
+[Network Analyzer (1740:1fe4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1740:1fe4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1740:1fe4)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1740:1fe4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1740:1fe4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1740:1fe4)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1740:1fe4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1740:1d44)] Address lookup for SusPecT-PC = 192.168.1.141
+[Net An. Warning  (1740:18cc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1bd8:1c18)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1bd8:1c18)] Load Network Traffic Analyzers:
+[Network Analyzer (1bd8:1c18)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1bd8:1c18)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1bd8:1c18)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1bd8:1c18)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1bd8:1c18)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1bd8:1c18)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1bd8:1c18)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1bd8:1368)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1c18)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1c18)] Request Connection: Remote Server @ 23.46.123.27:80   (Service=)  (Sid=  1)  PROXIED!
+[Net An. Warning  (1740:18cc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1740:18cc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1740:18cc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1740:18cc)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1e64)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1e64)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1740:18cc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (1740:1d44)] "GET /WebTours/"   
+[Network Analyzer (1740:1d44)]   (Sid:  1) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/header.html"   
+[Network Analyzer (1740:1d44)]   (Sid:  1) Client -> Server @ : 311 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1740:1d44)]   (Sid:  2) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (1740:1d44)]   (Sid:  2) Client -> Server @ : 370 bytes (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (1740:1d44)]   (Sid:  1) Client -> Server @ : 371 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  1) Server -> Client : 4486 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1740:1d44)]   (Sid:  2) Client -> Server @ : 363 bytes (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/home.html"   
+[Network Analyzer (1740:1d44)]   (Sid:  1) Client -> Server @ : 359 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  1) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (1740:1e64)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1e64)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 1743 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (1740:1d44)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (1740:1d44)]   (Sid:  2) Client -> Server @ : 374 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Net An. Warning  (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1740:1fe4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (1740:1d44)] "GET /favicon.ico"   
+[Network Analyzer (1740:1d44)]   (Sid:  2) Client -> Server @ : 230 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (1740:1cfc)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1cfc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1740:1d44)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1740:1d44)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1bd8:1c18)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1c18)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1bd8: ad0)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8: ad0)] Request Connection: Remote Server @ 23.46.123.27:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1bd8: ad0)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8: ad0)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1bd8:1c18)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8: ad0)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1c18)] Request Connection: Remote Server @ 13.107.21.200:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (1bd8:1368)] "GET /favicon.ico"   
+[Network Analyzer (1bd8:1368)]   (Sid:  5) Client -> Server @ : 443 bytes (Service=HTTP)
+[Network Analyzer (1bd8: ad0)] Request Connection: Remote Server @ 13.107.21.200:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1bd8:1368)]   (Sid:  5) Server -> Client : 566 bytes  (Service=HTTP)
+[Network Analyzer (1bd8:1564)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1f14)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:19e4)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1bd8:1564)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1bd8:19e4)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1bd8:1f14)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  9)  PROXIED!
+[Net An. Error    (1bd8:1a18)] SSL_connect(ssl_id = 103268448 = 000000000627C060) Failed, ctx = 000000000627D790, err = "SSLv2/v3 read server hello A", err code = 1, err msg = "error:00000001:lib(0):func(0):reason(1)
+error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version
+"
+[Net An. Error    (1bd8:1a18)]   (Sid:  7) SSL handshake with remote server Failed!
+[Net An. Error    (1bd8:1960)] SSL_connect(ssl_id = 103267648 = 000000000627BD40) Failed, ctx = 000000000627D790, err = "SSLv2/v3 read server hello A", err code = 1, err msg = "error:00000001:lib(0):func(0):reason(1)
+error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version
+"
+[Net An. Error    (1bd8:1960)]   (Sid:  9) SSL handshake with remote server Failed!
+[Net An. Error    (1bd8:142c)] SSL_connect(ssl_id = 103266848 = 000000000627BA20) Failed, ctx = 000000000627D790, err = "SSLv2/v3 read server hello A", err code = 1, err msg = "error:00000001:lib(0):func(0):reason(1)
+error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version
+"
+[Net An. Error    (1bd8:142c)]   (Sid:  8) SSL handshake with remote server Failed!
+[Network Analyzer (1bd8:1368)]   (Sid:  1) Server -> Client : 414 bytes 
+[Network Analyzer (1bd8:1368)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      (1740:1d44)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1740:1d44)]   (Sid:  3) Client -> Server @ : 557 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1740:1d44)]   (Sid:  3) Client -> Server @ : 468 bytes (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1740:1d44)]   (Sid:  4) Client -> Server @ : 463 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1740:17e4)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1d44)]   (Sid:  4) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1740:17e4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (1740:1d44)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (1740:1d44)]   (Sid:  3) Client -> Server @ : 492 bytes (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (1740:18cc)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1d44)]   (Sid:  4) Client -> Server @ : 492 bytes (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (1740:1d44)]   (Sid:  5) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer (1740:1cfc)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      (1740:1d44)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (1740:1fe4)] Address lookup for SusPecT-PC = 192.168.1.141
+[Network Analyzer (1740:1d44)]   (Sid:  3) Client -> Server @ : 492 bytes (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  4) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  5) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (1740:1d44)]   (Sid:  3) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (1740:1cfc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1740:18cc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1740:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
